@@ -25,3 +25,4 @@ meal_options = ["Standard", "Vegetarian", "Dairy-free", "No meal"]
 selected_meal = meal_options[meal_choice - 1]
 #this line tells the user all of their entered infomation 
 print(f"{name}, aged {age}, has chosen activity: '{selected_activity[0]}' and meal option: '{selected_meal}'.")
+print ("hello")
